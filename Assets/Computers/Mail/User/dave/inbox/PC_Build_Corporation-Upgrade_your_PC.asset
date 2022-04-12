@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4025818e68372fa41b5769e9b2cce660, type: 3}
+  m_Name: PC_Build_Corporation-Upgrade_your_PC
+  m_EditorClassIdentifier: 
+  notDeleteAble: 0
+  snd:
+  - event:/SoundEvents/notifcation
+  content: 'You probably have just the terminal without any mouse. I heard that using
+    a mouse would help to be faster and indeed its fuking awesome! There is a new
+    online store called caseking. Just connect to the server ''<b><color=#9ad0d2>shopstar.com</color></b>''
+    and choose your stuff! It has a cool terminal hud. Have fun!. '

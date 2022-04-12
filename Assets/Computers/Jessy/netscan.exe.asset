@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c6efaa26e148c84db6cbd9c74074f6c, type: 3}
+  m_Name: netscan.exe
+  m_EditorClassIdentifier: 
+  notDeleteAble: 0
+  snd: []
+  content: "b5 f5 9c 2c 6a ab 4a 80 40 5a e7 f3 fe d1 ad a0 \r\n34 1d 53 c5 5e 7d
+    01 9c e8 f1 32 92 4e 87 4a 83 \r\n29 f0 f4 8b 93 1a 23 16 71 d0 c7 51 b2 cc d4
+    00 \r\nae 3a 44 d4 ca be e9 74 1e 19 9a c9 74 bc 93 fa \r\nce 15 b9 a2 fb 78
+    d9 5c 6c 16 91 9b 0a 40 1d 61 \r\n87 6e dc 9c 15 07 c6 95 37 ea ee d9 be 51 01
+    35 \r\nf1 8a 88 04 1f 06 64 91 0b 19 b4 eb 49 a4 4e ba \r\n5d 46 3b 2f 89 f3
+    e8 09 3f c3 77 48 4a e0 78 4b "
+  cmdToAdd: {fileID: 11400000, guid: 0218f751861b7cc41a9dbf87b0fca80b, type: 2}

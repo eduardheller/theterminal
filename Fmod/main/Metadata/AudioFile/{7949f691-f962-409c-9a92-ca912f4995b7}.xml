@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{7949f691-f962-409c-9a92-ca912f4995b7}">
+		<property name="assetPath">
+			<value>344949__ivolipa__engine-vibrations-of-ferry-1.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>85.410666666666671</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{820450c6-4dc5-41d6-93ab-047af628e46b}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{b3b2038f-dc5b-4425-aaa9-5df155d86593}">
+		<property name="assetPath">
+			<value>142608__autistic-lucario__error.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.28510204081632651</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{820450c6-4dc5-41d6-93ab-047af628e46b}</destination>
+		</relationship>
+	</object>
+</objects>

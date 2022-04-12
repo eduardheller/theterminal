@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8465ccb6f384a814c85b6b22d8e541e6, type: 3}
+  m_Name: CLEAR
+  m_EditorClassIdentifier: 
+  name: clear
+  needsRoot: 0
+  needsUser: 1
+  helpDescription: Clears the content of the terminal and puts the cursor to the
+    top
+  clip: []
+  parameters: []
+  settings: {fileID: 0}

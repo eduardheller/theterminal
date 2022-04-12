@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{002d62e5-81e5-4f70-8e1b-5ca74e725285}">
+        <property name="assetPath">
+            <value>TapeDeck 2  Jun 20 22-03-09.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>25.541950113378686</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{820450c6-4dc5-41d6-93ab-047af628e46b}</destination>
+        </relationship>
+    </object>
+</objects>

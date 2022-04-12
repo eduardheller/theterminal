@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{9f69d8c3-94f9-463f-a8ec-c9e7a16c7814}">
+		<property name="assetPath">
+			<value>322896__rhodesmas__connected-02.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.75145124716553291</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{820450c6-4dc5-41d6-93ab-047af628e46b}</destination>
+		</relationship>
+	</object>
+</objects>

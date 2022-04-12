@@ -1,0 +1,2 @@
+// Colors can be red, green, yellow and blue
+setColor("red")

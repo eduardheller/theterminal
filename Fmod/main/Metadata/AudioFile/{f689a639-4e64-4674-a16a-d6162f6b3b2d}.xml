@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{f689a639-4e64-4674-a16a-d6162f6b3b2d}">
+        <property name="assetPath">
+            <value>dial.mp3</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>2.2465306122448978</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{820450c6-4dc5-41d6-93ab-047af628e46b}</destination>
+        </relationship>
+    </object>
+</objects>

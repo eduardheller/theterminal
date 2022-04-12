@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4025818e68372fa41b5769e9b2cce660, type: 3}
+  m_Name: readme.txt
+  m_EditorClassIdentifier: 
+  notDeleteAble: 0
+  snd:
+  - event:/SoundEvents/foundout_01
+  content: "I know it's been a long time we met each other, but I need your help.
+    \nConnect to the mail server@83.23.144.22\n<b><color=#9ad0d2>connect 83.23.144.22</color></b>\nor
+    \n<b><color=#9ad0d2>connect ecomail.com</color></b>\nAfter you have connected
+    type <b><color=#9ad0d2>login</color></b>.\nI've set up a mail account for you:\n<b><color=#9ad0d2>user:
+    dave</color>\n<color=#9ad0d2>password: 123</color></b>\n"

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4589c96ec2bd79047875cd2c0554572f, type: 3}
+  m_Name: ShopHost
+  m_EditorClassIdentifier: 
+  hostName: shopstar
+  ipAddress: 182.22.3.144
+  dns: shopstar.com
+  welcomeMessage: Welcome to shopstar use <b><color=#9ad0d2>shop</color></b> and
+    eventually <b><color=#9ad0d2>buy</color></b> to buy stuff from our shop. Have
+    fun!
+  root: {fileID: 11400000, guid: eddebcb152024da419875888758a1fdd, type: 2}
+  users:
+  - {fileID: 11400000, guid: 1c4d65fe45833c649b9febb1407c689d, type: 2}
+  logo: {fileID: 21300000, guid: a2b065143f7b8204398d1c894d28ee76, type: 3}
+  networkHosts: []
+  dontNeedLogin: 1
+  commands:
+  - {fileID: 11400000, guid: 49b3688d875eaf7419c7d1b983cbe66a, type: 2}
+  - {fileID: 11400000, guid: b082eda62f5384a4db743b4710e8fa56, type: 2}
+  shop: {fileID: 11400000, guid: 2f2b93af5e714f0439222c52dff7be34, type: 2}

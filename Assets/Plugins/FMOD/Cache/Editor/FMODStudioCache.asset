@@ -1,0 +1,2013 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8677938323487202845
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637284548863586951
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-8451819247855075042
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637292110424348745
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-8435098137669145716
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637284548863232696
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-8401983464508333930
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637291518620974192
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-8028784686213943964
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Speech/buffer_overflow
+  m_EditorClassIdentifier: 
+  Path: event:/Speech/buffer_overflow
+  guid: 3e9fff8281c91d4ba1835f058f0fde06
+  Banks:
+  - {fileID: -7107393314151683420}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2063
+--- !u!114 &-7863350547147427379
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637292526200383890
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-7721578901070478580
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637284569119185961
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-7399005987014608574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637284573871815872
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-7395667936653928379
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CommandSounds/connected
+  m_EditorClassIdentifier: 
+  Path: event:/CommandSounds/connected
+  guid: 0f76f3bfaa11df4a8383c02d339158c9
+  Banks:
+  - {fileID: -7107393314151683420}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 751
+--- !u!114 &-7352831826438233804
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637284575960029638
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-7107393314151683420
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637292527506084028
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-6759799965739854906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637284569366653321
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-6677964046072766113
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637291518208526207
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-6649639782548219190
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637284547488776313
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-6212448087516700993
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SoundEvents/error
+  m_EditorClassIdentifier: 
+  Path: event:/SoundEvents/error
+  guid: 04e521cfa185f04b9d97124936c7e061
+  Banks:
+  - {fileID: -7107393314151683420}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 285
+--- !u!114 &-6189239136071078382
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637284575959740094
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-6132742375805976082
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Speech/rootaccess
+  m_EditorClassIdentifier: 
+  Path: event:/Speech/rootaccess
+  guid: 1133a72261c17347a680177643b37b34
+  Banks:
+  - {fileID: -7107393314151683420}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1880
+--- !u!114 &-6090231408912108328
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637292112560097144
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-5805416639430685197
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SoundEvents/hacksound
+  m_EditorClassIdentifier: 
+  Path: event:/SoundEvents/hacksound
+  guid: 36f68567369074479504b054389e574d
+  Banks:
+  - {fileID: -7107393314151683420}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 5970
+--- !u!114 &-5406876291851095559
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637284587875823872
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-5372505126364834428
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637284580096097255
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-5141529998411862685
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637284540184949288
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-5065617220998739181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637292459850124006
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-5040743581840773687
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637292113773159224
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-4907554410631928490
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SoundEvents/thrust
+  m_EditorClassIdentifier: 
+  Path: event:/SoundEvents/thrust
+  guid: 1208ca04b366124da4d42f03a62fdc44
+  Banks:
+  - {fileID: -7107393314151683420}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 85410
+--- !u!114 &-4890571495994540143
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637286897497529727
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-4729907281587946448
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637291538062668101
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-4591825541736862658
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637286897497195289
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-4228965442878758921
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SoundEvents/compile
+  m_EditorClassIdentifier: 
+  Path: event:/SoundEvents/compile
+  guid: d6e6e3dc9c3c57479f72b23b3315f6f6
+  Banks:
+  - {fileID: -7107393314151683420}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 213
+--- !u!114 &-4169697197962942794
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637284549317855580
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-4146104562379294069
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637291661694706367
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-4113453819411531351
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SoundEvents/foundout_01
+  m_EditorClassIdentifier: 
+  Path: event:/SoundEvents/foundout_01
+  guid: abfc89b9a85af74fb3929b6425faea49
+  Banks:
+  - {fileID: -7107393314151683420}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 6531
+--- !u!114 &-4037455322653045759
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637291657687290666
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-3755813633971361319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637284549317561053
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-3592003864840352724
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SoundEvents/notifcation
+  m_EditorClassIdentifier: 
+  Path: event:/SoundEvents/notifcation
+  guid: 2cbb116b1562d745a2eb5a12558fe4e4
+  Banks:
+  - {fileID: -7107393314151683420}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2000
+--- !u!114 &-3505659290181432954
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637284591340456232
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-3278207771299454413
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637284580096416731
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-3263276965257988730
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637284699314032585
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-3133249279236228724
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637291661695040848
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-2872468695439966362
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637284586017093305
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-2423115460368488130
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Ambient Computer Medley
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Ambient Computer Medley
+  guid: fe06b7d17007e5418948bf32acea865e
+  Banks:
+  - {fileID: -7107393314151683420}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 599928
+--- !u!114 &-2337360390315089960
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Typing/Typing_Return
+  m_EditorClassIdentifier: 
+  Path: event:/Typing/Typing_Return
+  guid: e1ef6eb5068f7d4a867676f7fb863808
+  Banks:
+  - {fileID: -7107393314151683420}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 360
+--- !u!114 &-2335061883896375528
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/menue
+  m_EditorClassIdentifier: 
+  Path: event:/Music/menue
+  guid: 357d026abdd49d4eba579321a59a5fc9
+  Banks:
+  - {fileID: -7107393314151683420}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 71653
+--- !u!114 &-2290226970349299207
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/chill
+  m_EditorClassIdentifier: 
+  Path: event:/Music/chill
+  guid: 4bc43a35eb1f474591098c1b71c66195
+  Banks:
+  - {fileID: -7107393314151683420}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 64888
+--- !u!114 &-2197044530535547707
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637285140443397874
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-2082363425282293001
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637284549363918871
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-1809708966604584066
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637291666002844793
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-1720949616386996263
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637292471421204907
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-1697664695684628208
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637292113894424480
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-1675828385809460862
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CommandSounds/dial
+  m_EditorClassIdentifier: 
+  Path: event:/CommandSounds/dial
+  guid: 0b36e2c6c7c1584cb60054d91d78f8d2
+  Banks:
+  - {fileID: -7107393314151683420}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2246
+--- !u!114 &-1596234255218931237
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637284584950990071
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-1595613314993564383
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637291521148798155
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-1578497288147960690
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SoundEvents/brum
+  m_EditorClassIdentifier: 
+  Path: event:/SoundEvents/brum
+  guid: 4ab61d4842fa0a4fa9afb3d559bded3f
+  Banks:
+  - {fileID: -7107393314151683420}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 13658
+--- !u!114 &-1391788336776904543
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SoundEvents/noise_tv
+  m_EditorClassIdentifier: 
+  Path: event:/SoundEvents/noise_tv
+  guid: 5aa5db9b59e4f349899e97394029dd81
+  Banks:
+  - {fileID: -7107393314151683420}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 4270
+--- !u!114 &-1148226851903104118
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637284584951329532
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-1097209191895558390
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637284587875509290
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-875877392900673592
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637284699313693127
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-845975540669445502
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SoundEvents/electric_circuti
+  m_EditorClassIdentifier: 
+  Path: event:/SoundEvents/electric_circuti
+  guid: 44f1b67658cf764ab6921898af0b990a
+  Banks:
+  - {fileID: -7107393314151683420}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 8376
+--- !u!114 &-790863138349143039
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637292113894709019
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-236127628246495208
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/introSong
+  m_EditorClassIdentifier: 
+  Path: event:/Music/introSong
+  guid: 8539ab64b9fbcb408857a50994ddc8b7
+  Banks:
+  - {fileID: -7107393314151683420}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 24591
+--- !u!114 &-220749282365870128
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/music
+  m_EditorClassIdentifier: 
+  Path: event:/Music/music
+  guid: e8891d5d580ba14c86028fff4bfeb091
+  Banks:
+  - {fileID: -7107393314151683420}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 206311
+--- !u!114 &-109543087088119016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637284548321457875
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 7308464863175639489}
+  - {fileID: -7107393314151683420}
+  - {fileID: 3558898934346221355}
+  EditorEvents:
+  - {fileID: -2337360390315089960}
+  - {fileID: 8811719717349717243}
+  - {fileID: -1675828385809460862}
+  - {fileID: -2423115460368488130}
+  - {fileID: 4236612755688535698}
+  - {fileID: -4113453819411531351}
+  - {fileID: -220749282365870128}
+  - {fileID: -7395667936653928379}
+  - {fileID: -3592003864840352724}
+  - {fileID: -1578497288147960690}
+  - {fileID: -1391788336776904543}
+  - {fileID: 4639284377144089807}
+  - {fileID: -236127628246495208}
+  - {fileID: -2335061883896375528}
+  - {fileID: -2290226970349299207}
+  - {fileID: -5805416639430685197}
+  - {fileID: 1609575285484992771}
+  - {fileID: -4907554410631928490}
+  - {fileID: -845975540669445502}
+  - {fileID: 9164481305479780599}
+  - {fileID: -4228965442878758921}
+  - {fileID: -8028784686213943964}
+  - {fileID: -6132742375805976082}
+  - {fileID: -6212448087516700993}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: -7107393314151683420}
+  StringsBanks:
+  - {fileID: 7308464863175639489}
+  stringsBankWriteTime: 637292527506173891
+  cacheVersion: 3
+--- !u!114 &287458223750547443
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637284569118866481
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &327093857108117451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637292459849804441
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &585631693632985536
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637292110424793033
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &719198121932185835
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637291780069942594
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &1517633458853949978
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637292438311797651
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &1580131485022303084
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637291657687605065
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &1609575285484992771
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Speech/hackingsystem
+  m_EditorClassIdentifier: 
+  Path: event:/Speech/hackingsystem
+  guid: d107f26ef8507c4480a64c4c828c77b4
+  Banks:
+  - {fileID: -7107393314151683420}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1550
+--- !u!114 &1679200792941186988
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637292526200848167
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &1705916182315474906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637292471420855471
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &2038967890121948839
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637284591340840621
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &2064666672697437605
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637284549364208411
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &2495742525318188755
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637292232329662342
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &2757215033624918545
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637291518208875631
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &3035391371393778342
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637291538062363584
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &3048314092331942195
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637292113772869712
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &3558898934346221355
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637292527506433472
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &3687690882984079649
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637291780070232089
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &3849393383630130643
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637284557201810513
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &4236612755688535698
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Speech/speech_01
+  m_EditorClassIdentifier: 
+  Path: event:/Speech/speech_01
+  guid: 772d157d4ca53442a15e16982b2063c8
+  Banks:
+  - {fileID: -7107393314151683420}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 6896
+--- !u!114 &4533803285826915085
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637292438311478305
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &4639284377144089807
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/intro
+  m_EditorClassIdentifier: 
+  Path: event:/Music/intro
+  guid: 64ad9db0397b1c4d86febe19c55232cc
+  Banks:
+  - {fileID: -7107393314151683420}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 94071
+--- !u!114 &5021556163897950012
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/IntroSong
+  m_EditorClassIdentifier: 
+  Path: event:/Music/IntroSong
+  guid: 8539ab64b9fbcb408857a50994ddc8b7
+  Banks: []
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 24591
+--- !u!114 &5126186695132853647
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637291666460707497
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &5476338694361376005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637284586017392831
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &5532896069547123588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637292112559797629
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &5634586835030709757
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637284569366962632
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &5638370154580202192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637291666003129342
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &5719991371017538479
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637284548322316496
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &5896665656807940466
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637286897439200927
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &6883345424295833349
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637285140443742336
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &6905525678903867668
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637292232329991814
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &7083148626450094877
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637291666461012005
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &7308464863175639489
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.strings.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.strings.bank
+  SubDir: 
+  lastModified: 637292527506173891
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 2020
+  Exists: 1
+--- !u!114 &7377369429030665207
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637291521149172554
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &8476121620500915978
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637286897439540380
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &8578665777791981273
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637284573871516370
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &8811719717349717243
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Typing/Typing_Random
+  m_EditorClassIdentifier: 
+  Path: event:/Typing/Typing_Random
+  guid: 1a0c1e36f46e854891b7fd80e3f32304
+  Banks:
+  - {fileID: -7107393314151683420}
+  - {fileID: 3558898934346221355}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 260
+--- !u!114 &8869101659889820746
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master Bank.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Master Bank.bank
+  SubDir: 
+  lastModified: 637284557201461070
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &9061819687731339862
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Typing.bank
+  m_EditorClassIdentifier: 
+  Path: Fmod/main/Build/Desktop/Typing.bank
+  SubDir: 
+  lastModified: 637291518621323632
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &9164481305479780599
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SoundEvents/explosion_door
+  m_EditorClassIdentifier: 
+  Path: event:/SoundEvents/explosion_door
+  guid: 727e038cae43324b9dbfd0cad824ee8a
+  Banks:
+  - {fileID: -7107393314151683420}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 7706

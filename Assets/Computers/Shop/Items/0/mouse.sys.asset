@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69984a193b9f76c4da02e13c726ff5cf, type: 3}
+  m_Name: mouse.sys
+  m_EditorClassIdentifier: 
+  notDeleteAble: 0
+  snd: []
+  content: "b4 aa 09 36 96 c5 03 b1 60 b1 a9 a7 84 4a c9 9d \r\n1e 7b 05 2b f1 27
+    a6 6a ea e2 c5 75 2b 5c 5b c6 \r\ne2 df 89 9a ae 23 ce e4 7a d7 a1 f9 9a e8 b2
+    3c \r\n76 13 a6 0b 2c 4f 12 ef b5 af 53 a9 d5 e6 f0 cb \r\n4e b3 8c e4 56 e8
+    07 7b 41 6b 93 d4 33 b7 f1 5f \r\nfe cd a2 26 f7 a1 0c a6 73 2c 1b 91 4e 6b c7
+    2d \r\n44 8b 9c 6b 00 2a 29 04 70 3f 67 95 b8 a0 c6 00 \r\nb1 89 7a d3 2e 88
+    02 b0 3e 02 6c 0f b5 11 d5 b1 "
+  buyId: 0
+  cost: 10
+  buyDescription: 'Enables support for mouse, includes: copy, paste with rightclick'
+  neededRam: 2
+  neededHdd: 1
+  requiredUpgrades: []

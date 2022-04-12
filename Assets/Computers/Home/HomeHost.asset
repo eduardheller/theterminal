@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4589c96ec2bd79047875cd2c0554572f, type: 3}
+  m_Name: HomeHost
+  m_EditorClassIdentifier: 
+  hostName: MyComputer
+  ipAddress: 127.0.0.1
+  dns: jane.terminal
+  welcomeMessage: 
+  root: {fileID: 11400000, guid: 86b1348089577f24bb2046c8db998bc4, type: 2}
+  users:
+  - {fileID: 11400000, guid: 86b1348089577f24bb2046c8db998bc4, type: 2}
+  logo: {fileID: 0}
+  networkHosts:
+  - {fileID: 11400000, guid: 5eee99f17b8b8db4aa3ba06222063f1e, type: 2}
+  - {fileID: 11400000, guid: 42890b25b6aa66c489687f4d483bc419, type: 2}
+  dontNeedLogin: 1
+  commands: []
+  shop: {fileID: 0}

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4025818e68372fa41b5769e9b2cce660, type: 3}
+  m_Name: kernel.sys
+  m_EditorClassIdentifier: 
+  notDeleteAble: 0
+  snd: []
+  content: "<uppercase>34 b6 b1 79 90 22 fa f5 35 1f 41 f5 02 64 a5 83 \r\nc5 b8
+    82 12 87 2f f7 29 47 f8 2a 07 e4 5b 98 54 \r\n70 0c c4 be bd 3f 28 a8 72 fc 20
+    45 4e bf 34 7d \r\n16 d7 25 4a 89 03 d9 ef 71 c7 15 e5 79 c4 e8 7d \r\n04 4e
+    db 8f 8e 36 58 86 33 de 16 3e 45 d5 e0 13 \r\n6e ad 94 b3 e7 5f 76 da 94 f6 2c
+    06 ad ff bd b1 \r\nb8 03 cd bb f1 d6 95 84 ee 22 fe 83 75 e9 ca 99 \r\nd3 85
+    e0 a1 60 a9 42 2a c0 f3 86 db 9e 91 e7 bf \r\ne6 9b 21 4e f3 4e 9c 75 25 f8 21
+    56 9e 63 6c 29 \r\nb8 52 fb ac 3e 47 8c bc 6a bd 3d cd 83 3e 25 34 \r\n9c d1
+    0e 6b 6c 3f f5 f1 cd f4 b2 f1 d1 44 3b db \r\n81 34 11 6d 37 39 bc 6d 71 d1 5b
+    38 f2 0f 07 18 \r\n6a 77 67 ff 25 5a de 34 e3 2f 20 63 d4 52 df 0d \r\n31 70
+    c3 1a 19 34 05 2f 57 5b 36 da ba f5 62 2f \r\n3c b9 ac c9 a1 2d cd 62 19 56 dd
+    8d 52 90 72 2e \r\n4b e4 e5 81 9c 98 0f 93 02 25 86 e9 d1 fc b0 72 \r\ncc 19
+    26 d1 45 0f 2a c7 58 78 1c 47 61 93 5e 6f \r\n5b 97 3d 99 34 ff 36 db 0d 01 c3
+    81 4c 11 bf 6f \r\nfe 83 a0 0e da a0 10 96 73 c4 e4 97 06 9e 60 bc \r\n0f a1
+    d1 ee 94 fe 08 87 28 65 58 79 4d 6b 1e 74 \r\nd5 cf ab b6 1b f1 81 5b ee aa 77
+    14 ad be 42 32 \r\n48 ad 0d c8 8e f4 48 c5 26 e4 fe 1f 43 c9 9e 8d \r\nb9 0b
+    8d 0f 03 fb 3f b2 87 49 a6 f8 06 56 29 b1 \r\n43 9a 32 68 f7 f0 a8 38 7a 10 4f
+    48 13 9a 04 f6 \r\n6c 09 44 41 e0 31 5d f2 d5 11 93 c8 b1 23 f3 8f \r\n60 44
+    96 79 e9 63 29 33 97 c1 71 27 e5 68 2f 57 \r\n4f e8 1f 19 55 c9 26 ba 6f ac 6c
+    7f d0 fe 56 f1 \r\nb5 5f 58 0d b8 34 45 ef 2a ab 28 2f a4 95 16 28 \r\n4d ca
+    a2 39 a5 54 a9 69 7a 67 41 2c 8c e6 75 26 \r\n0c 68 f6 37 7e fa cc 41 09 13 41
+    fd fb 13 54 f3 \r\nd0 dd 8c d7 3a 27 27 61 67 39 0f ab 37 63 b3 f7 \r\n79 22
+    94 01 af af 4d 84 42 ae bf de 3f c0 47 fd </uppercase>"
